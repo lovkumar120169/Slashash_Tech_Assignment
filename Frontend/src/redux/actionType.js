@@ -1,0 +1,8 @@
+
+export const MOVIE_REQUEST="MOVIE_REQUEST"
+export const MOVIE_FALIURE="MOVIE_FALIURE"
+
+
+export const GET_MOVIE_SUCCESS="GET_MOVIE_SUCCESS";
+export const ADD_TO_FAV="ADD_TO_FAV";
+// export const POST_MOVIE_SUCCESS="POST_MOVIE_SUCCESS";
